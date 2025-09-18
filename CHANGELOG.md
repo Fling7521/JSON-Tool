@@ -1,5 +1,11 @@
 ## CHANGELOG
 
+### ✨[v0.0.9] - 2025-09-18
+
+#### ⚡Improvements
+
+- Edit panel display error.
+
 ### ✨[v0.0.8] - 2025-06-25
 
 #### 🐛Bug Fixes
